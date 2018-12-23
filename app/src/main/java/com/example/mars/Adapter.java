@@ -19,7 +19,7 @@ public class Adapter extends  BaseAdapter {
                 getSystemService(Context.LAYOUT_INFLATER_SERVICE);
     }
 
-    // comments--->
+    // comments- change
     @Override
     public int getCount() {
         if(Jsonparser.publicList!=null) {
