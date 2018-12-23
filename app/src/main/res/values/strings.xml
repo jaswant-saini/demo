@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mars</string>
+    <string name="option_take_photo">Take a Photo</string>
+    <string name="option_choose_from_gallery">Choose From Gallery</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="add_photo">Add Photo</string>
+</resources>
